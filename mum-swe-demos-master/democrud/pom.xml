@@ -6,7 +6,7 @@
 	<groupId>mum.swe</groupId>
 	<artifactId>democrud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>democrud</name>
 	<description>Demo project for Spring Boot</description>
